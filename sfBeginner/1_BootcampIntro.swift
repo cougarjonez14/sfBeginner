@@ -1,4 +1,4 @@
-// 1. Bootcamp 1
+// 1: BOOTCAMP 1
 
 import SwiftUI
 

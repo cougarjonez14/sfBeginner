@@ -1,4 +1,5 @@
-/* 2 - ADDING TEXT
+/*
+2 - ADDING TEXT
 
  1. .bold and .medium tend to look best
  2. (command + /) to comment out a line of code

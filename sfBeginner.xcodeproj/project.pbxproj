@@ -12,6 +12,7 @@
 		A2BB75922B214018006F3489 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2BB75912B214018006F3489 /* Assets.xcassets */; };
 		A2BB75952B214018006F3489 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2BB75942B214018006F3489 /* Preview Assets.xcassets */; };
 		A2BB759E2B2145C3006F3489 /* 2_AddingText.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BB759D2B2145C3006F3489 /* 2_AddingText.swift */; };
+		A2BB75A02B214EC6006F3489 /* 3_Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BB759F2B214EC6006F3489 /* 3_Shapes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A2BB75912B214018006F3489 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2BB75942B214018006F3489 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A2BB759D2B2145C3006F3489 /* 2_AddingText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2_AddingText.swift; sourceTree = "<group>"; };
+		A2BB759F2B214EC6006F3489 /* 3_Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3_Shapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				A2BB758D2B214016006F3489 /* sfBeginnerApp.swift */,
 				A2BB758F2B214016006F3489 /* 1_BootcampIntro.swift */,
 				A2BB759D2B2145C3006F3489 /* 2_AddingText.swift */,
+				A2BB759F2B214EC6006F3489 /* 3_Shapes.swift */,
 				A2BB75912B214018006F3489 /* Assets.xcassets */,
 				A2BB75932B214018006F3489 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				A2BB75902B214016006F3489 /* 1_BootcampIntro.swift in Sources */,
 				A2BB758E2B214016006F3489 /* sfBeginnerApp.swift in Sources */,
 				A2BB759E2B2145C3006F3489 /* 2_AddingText.swift in Sources */,
+				A2BB75A02B214EC6006F3489 /* 3_Shapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
